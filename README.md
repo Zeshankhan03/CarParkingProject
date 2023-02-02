@@ -1,2 +1,2 @@
 # CarParkingProject
-AOA, I have created the Car Parking Project written in Java Language as my console based OOP final Project.
+AOA, I have created a console based Car Parking Project written in Java Language for my OOP final Project.
